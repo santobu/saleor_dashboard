@@ -32,6 +32,8 @@ $ npm start
 ### Assignment
 
 - Update Home screen to display order summary with line chart and allow user to filter by paid status (using any chart library you prefer)
+- Update layout to have menu items on top of the screen
+  (change from left to top)
 
 <br />
 <br />
